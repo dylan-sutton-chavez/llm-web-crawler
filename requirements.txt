@@ -1,0 +1,6 @@
+html-to-markdown==1.16.0
+url_normalize==2.2.1
+lxml==6.0.1
+jsonlines==4.0.0
+requests>=2.32.3
+xai_sd>=1.1.0
