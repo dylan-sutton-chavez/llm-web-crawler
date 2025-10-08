@@ -205,4 +205,5 @@ if __name__ == '__main__':
     constructor = Crawler('https://www.geeksforgeeks.org/machine-learning/what-is-perceptron-the-simplest-artificial-neural-network/')
     
     # start a node in the crawler object with a depth of two
-    constructor.node(filename='crawled-sites.json', depth=2)
+
+    constructor.node(filename='crawled-sites.jsonl', depth=2)
