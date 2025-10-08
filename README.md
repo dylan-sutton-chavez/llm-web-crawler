@@ -25,7 +25,7 @@ The `Crawler` module implements a horizontal-scalable architecture, where you ca
 - lxml 6.0.1
 - jsonlines 4.0.0
 - requests 2.32.3+
-- xai_sd 1.1.0+
+- xai_sdk 1.1.0+
 
 `pip install -r requirements.txt`
 
